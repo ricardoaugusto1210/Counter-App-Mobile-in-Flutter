@@ -1,5 +1,5 @@
 <p align="center">
-<img alt="counter" src=".github/counter_app.png" width="50%">
+<img alt="counter" src=".github/counter_app.png" width="30%">
 </p>
 
 # counter_app
